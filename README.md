@@ -3,6 +3,9 @@
 **Project Description:**  
 This project is designed as an ETL (Extract, Transform, Load) pipeline to process the "No Show Appointments" dataset from Kaggle. The project automates the process of extracting raw data, cleaning it, transforming it using SQL, and loading it into a MySQL database. This project could be useful for data engineers looking to optimize data analytics workflows and automate the ETL process.
 
+**Dataset Source:**
+The dataset used in this project is the "No Show Appointments" dataset from Kaggle. You can find the dataset here. https://www.kaggle.com/datasets/joniarroba/noshowappointments
+
 **Problem Statement:**  
 Datasets often require significant cleaning and transformation to be useful for analysis. This project addresses the following issues encountered when working with raw datasets:
 
